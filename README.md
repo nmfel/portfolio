@@ -11,3 +11,5 @@ Google Collab, Google BigQuery, Tableau, Power BI, Microsoft Excel, Github
 - EDA and NLP: Exploration of ChatGPT User Reviews
 - API and EDA for Abusive and Hate Speech on Twitter
 
+
+Connect with me [Linkedin](https://www.linkedin.com/in/nmfel/)
