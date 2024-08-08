@@ -8,9 +8,9 @@ Visual Studio Code, Google Collab, Google BigQuery, Tableau, Power BI, Microsoft
 - Data Science (Wave 8) | BINAR ACADEMY | 2023
 
 ### Projects
-- EDA and NLP: Exploration of ChatGPT User Reviews
-
-This project aims to analyze the ratings provided by ChatGPT users using exploratory data analysis and data modeling methods. To better understand customer preferences, I will analyze the rating data and explore existing trends. The project will generally involve several stages: data cleaning, exploratory data analysis, and data modeling.
+- Global Life Expectancy And Prediction Using Supervised Learning
+  
+In this [project](https://github.com/nmfel/DataScienceProject/blob/main/Global%20Life%20Expectancy%201960%20-%202022/Global_Life_Expectancy_1960_2022.ipynb), I aim to forecast life expectancy from 2023 to 2030 using a linear regression model. This approach seeks to identify trends in global and regional life expectancy and predict future life expectancy based on historical trends. Additionally, I will conduct Exploratory Data Analysis (EDA) to examine the phenomena present within the data.
 
 - API and EDA for Abusive and Hate Speech on Twitter
 
