@@ -1,6 +1,6 @@
-### Technical Skills: 
+## Technical Skills: 
 Python, SQL, Data Visualization, Statistical Analysis
-### Platform: 
+## Platform: 
 Google Collab, Google BigQuery, Tableau, Power BI, Microsoft Excel, Github
 
 ## Education
