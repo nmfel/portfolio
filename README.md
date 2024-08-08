@@ -1,6 +1,6 @@
 ### Education
-- International Relations, S.Hub.Int
-- Data Science (Wave 8), BINAR ACADEMY
+- S.Hub.Int, International Relations | Parahyangan Catholic University
+- Data Science (Wave 8) | BINAR ACADEMY
 
 ### Projects
 - EDA and NLP: Exploration of ChatGPT User Reviews
